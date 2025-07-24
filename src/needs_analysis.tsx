@@ -93,7 +93,7 @@ const GlassesFinderWizard = () => {
     {
       type: 'multiple',
       section: "Your Current Setup",
-      question: "Do you prefer specific brands or styles?",
+      question: "What brands do you like?",
       options: ["Ray-Ban", "Oakley", "Lindberg", "Tom Ford", "I go for comfort over brands", "Not sure / no preference"]
     },
     {
