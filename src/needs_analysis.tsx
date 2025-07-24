@@ -61,7 +61,7 @@ const GlassesFinderWizard = () => {
   const questions: Question[] = [
     {
       type: 'intro',
-      section: "Let's Get Started",
+      section: "VisionMatch",
       title: "Let's match your glasses with your lifestyle",
       subtitle: "Answer a few quick questions to discover which types of glasses actually fit your day-to-day life.",
       note: "(Takes 2 minutes – and you might learn something useful about your vision!)"
