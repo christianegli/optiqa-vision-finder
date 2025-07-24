@@ -67,7 +67,7 @@ const GlassesFinderWizard = () => {
       note: "(Takes 2 minutes – and you might learn something useful about your vision!)"
     },
     {
-      type: 'multiple',
+      type: 'single',
       section: "Your Current Setup",
       question: "Do you currently wear glasses or lenses?",
       options: ["Yes, I wear glasses", "Yes, I wear both glasses and contact lenses", "No, but I think I need them", "No, and I don't think I need them"]
